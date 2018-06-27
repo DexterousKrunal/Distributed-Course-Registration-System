@@ -1,0 +1,5 @@
+courseNo Sec timeId capacity
+CSCI5444 1 1 4
+CSCI5333 1 2 5
+
+

@@ -1,0 +1,3 @@
+courseNum courseTime Dec credit
+CSCI5444 2 DBMS 3
+CSCI5333 1 AOS 3
